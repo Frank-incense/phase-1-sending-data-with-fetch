@@ -1,30 +1,200 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
-      "id": 1
+      "id": "1"
     },
     {
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
-      "id": 2
+      "id": "2"
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
-      "id": 1
+      "id": "1"
     },
     {
       "catName": "Gunnar",
       "catBreed": "American Shorthair",
-      "id": 2
+      "id": "2"
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "id": "5d14",
+      "name": "frank",
+      "email": "frank@example.com"
+    },
+    {
+      "id": "5017",
+      "name": "frank",
+      "email": "frank@example.com"
+    },
+    {
+      "id": "c990",
+      "name": "frank",
+      "email": "frank@example.com"
+    },
+    {
+      "id": "aa5e",
+      "name": "frank",
+      "email": "frank@example.com"
+    },
+    {
+      "id": "fc30",
+      "name": "frank",
+      "email": "frank@example.com"
+    },
+    {
+      "id": "37a3",
+      "name": "frank",
+      "email": "frank@example.com"
+    },
+    {
+      "id": "66e4",
+      "name": "frank",
+      "email": "frank@example.com"
+    },
+    {
+      "id": "272a",
+      "name": "frank",
+      "email": "frank@example.com"
+    },
+    {
+      "id": "1d1a",
+      "name": "frank",
+      "email": "frank@example.com"
+    },
+    {
+      "id": "9afc",
+      "name": "frank",
+      "email": "frank@example.com"
+    },
+    {
+      "id": "6c9b",
+      "name": "frank",
+      "email": "frank@example.com"
+    },
+    {
+      "id": "fd34",
+      "name": "frank",
+      "email": "frank@example.com"
+    },
+    {
+      "id": "ad9a",
+      "name": "frank",
+      "email": "frank@example.com"
+    },
+    {
+      "id": "e80e",
+      "name": "frank",
+      "email": "frank@example.com"
+    },
+    {
+      "id": "4fa8",
+      "name": "frank",
+      "email": "frank@example.com"
+    },
+    {
+      "id": "f294",
+      "name": "frank",
+      "email": "frank@example.com"
+    },
+    {
+      "id": "09d9",
+      "name": "frank",
+      "email": "frank@example.com"
+    },
+    {
+      "id": "9dac",
+      "name": "frank",
+      "email": "frank@example.com"
+    },
+    {
+      "id": "1062",
+      "name": "frank",
+      "email": "frank@example.com"
+    },
+    {
+      "id": "654f",
+      "name": "frank",
+      "email": "frank@example.com"
+    },
+    {
+      "id": "f255",
+      "name": "frank",
+      "email": "frank@example.com"
+    },
+    {
+      "id": "5589",
+      "name": "frank",
+      "email": "frank@example.com"
+    },
+    {
+      "id": "6a55",
+      "name": "frank",
+      "email": "frank@example.com"
+    },
+    {
+      "id": "6039",
+      "name": "frank",
+      "email": "frank@example.com"
+    },
+    {
+      "id": "a7d7",
+      "name": "frank",
+      "email": "frank@example.com"
+    },
+    {
+      "id": "1396",
+      "name": "frank",
+      "email": "frank@example.com"
+    },
+    {
+      "id": "0700",
+      "name": "frank",
+      "email": "frank@example.com"
+    },
+    {
+      "id": "8c21",
+      "name": "frank",
+      "email": "frank@example.com"
+    },
+    {
+      "id": "8eb5",
+      "name": "frank",
+      "email": "frank@example.com"
+    },
+    {
+      "id": "27f7",
+      "name": "frank",
+      "email": "frank@example.com"
+    },
+    {
+      "id": "a44b",
+      "name": "frank",
+      "email": "frank@example.com"
+    },
+    {
+      "id": "f177",
+      "name": "frank",
+      "email": "frank@example.com"
+    },
+    {
+      "id": "dc43",
+      "name": "frank",
+      "email": "frank@example.com"
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": "9000"
+    }
+  ]
 }
